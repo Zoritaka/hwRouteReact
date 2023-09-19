@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    border-radius: 8px;
+    border: 1px solid black;
+}
+.block{
+    width: 700px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.photo{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0px;
+}
+.start{
+    width: auto;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+.pp{
+    margin-top: 0;
+}
+img{
+    width: 340px;
+    border-radius: 10px;
+}
